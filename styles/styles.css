@@ -1,5 +1,10 @@
 * {
     color: black;
+    border: 2px solid red;
+}
+
+html {
+    box-sizing:inherit;
 }
 
 div {
@@ -9,3 +14,12 @@ div {
 img {
     width: 500px;
 }
+
+.box {
+    border: 5px solid rebeccapurple;
+    background-color: lightgray;
+    padding: 40px;
+    margin: 40px;
+    width: 300px;
+    height: 150px;
+  }
